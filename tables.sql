@@ -1,71 +1,52 @@
 ------------------------------------------------------------------------ 
---Drop Tables
------------------------------------------------------------------------- 
-DROP TABLE restaurants CASCADE;
-DROP TABLE categories CASCADE;
-DROP TABLE items CASCADE;
-DROP TABLE nutrition CASCADE;
-
------------------------------------------------------------------------- 
---Create Tables
------------------------------------------------------------------------- 
-CREATE TABLE restaurants
-(id INT NOT NULL,
- name VARCHAR,
- PRIMARY KEY (id));
- 
- CREATE TABLE categories
-(id INT NOT NULL,
- category VARCHAR,
- PRIMARY KEY (id));
-
- --The dept_emp table has only two columns with redundant identifiers (adding composite key)
- CREATE TABLE items
-(id INT NOT NULL,
- item VARCHAR,
- PRIMARY KEY (id));
- 
- CREATE TABLE nutrition
-(restaurant id INT NOT NULL,
- category id INT NOT NULL,
- item id INT NOT NULL,
- serving size (oz), INT,
- serving size (g), INT,
- calories, INT,
- calories from fat, INT,
- total fat (g), INT,
- total fat (% daily value), INT,
- saturated fat (g), INT,
- saturated fat (% daily value), INT,
- trans fat (g), INT,
- cholesterol (mg), INT,
- cholesterol(% daily value), INT,
- sodium (mg), INT,
- sodium (% daily value), INT,
- carbohydrates (% daily value), INT,
- dietary fiber (g), INT,
- dietary fiber (% daily value), INT,
- sugars (g), INT,
- protein (g), INT,
- vitamin a (% daily value), INT,
- vitamin c (% daily value), INT,
- calcium (% daily value), INT,
- iron (% daily value), INT,
- PRIMARY KEY (restaurant id, category id, item id));
- 
- 
------------------------------------------------------------------------- 
---IMPORT DATA INTO TABLES
+--Table Creation (SQLite)
 ------------------------------------------------------------------------ 
 
------------------------------------------------------------------------- 
---Add Foreign Keys
------------------------------------------------------------------------- 
-ALTER TABLE nutrition
-ADD FOREIGN KEY (restaurant id) REFERENCES restaurants (id);
- 
-ALTER TABLE nutrition
-ADD FOREIGN KEY (category id) REFERENCES categories (id);
- 
-ALTER TABLE nutrition
-ADD FOREIGN KEY (item id) REFERENCES items (id;
+CREATE TABLE "categories" (
+	"category_name"	TEXT,
+	"id"	INTEGER,
+	PRIMARY KEY("id")
+);
+
+CREATE TABLE "menu_items" (
+	"item_name"	TEXT,
+	"id"	INTEGER,
+	PRIMARY KEY("item_name")
+);
+
+CREATE TABLE "restaurants" (
+	"id"	INTEGER,
+	"name"	TEXT,
+	PRIMARY KEY("id")
+);
+
+CREATE TABLE "nutrition" (
+	"restaurant_id"	INTEGER,
+	"category_id"	INTEGER,
+	"item_id"	INTEGER UNIQUE,
+	"serving_size_oz"	INTEGER,
+	"calories"	INTEGER,
+	"calories_from_fat"	INTEGER,
+	"total_fat_g"	INTEGER,
+	"total_fat_%_dv"	INTEGER,
+	"saturated_fat_g"	INTEGER,
+	"saturated_fat_%_dv"	INTEGER,
+	"trans_fat_g"	INTEGER,
+	"cholesterol_mg"	INTEGER,
+	"cholesterol_%_dv"	INTEGER,
+	"sodium_mg"	INTEGER,
+	"sodium_%_dv"	INTEGER,
+	"carbohydrates_g"	INTEGER,
+	"carbohydrates_%_dv"	INTEGER,
+	"dietary_fiber_g"	INTEGER,
+	"dietary_fiber_% _dv"	INTEGER,
+	"sugars_g"	INTEGER,
+	"protein_g"	INTEGER,
+	"vitamin_a_%_dv"	INTEGER,
+	"vitamin_c_%_dv"	INTEGER,
+	"calcium_%_dv"	INTEGER,
+	"iron_%_dv"	INTEGER,
+	PRIMARY KEY("item_id"),
+	FOREIGN KEY("category_id") REFERENCES "categories"("id"),
+	FOREIGN KEY("restaurant_id") REFERENCES "restaurants"("id")
+);

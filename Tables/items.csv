@@ -1,750 +1,751 @@
 item,id
-Egg McMuffin,1
-Egg White Delight,2
-Sausage McMuffin,3
-Sausage McMuffin with Egg,4
-Sausage McMuffin with Egg Whites,5
-Steak & Egg McMuffin,6
-"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",7
-"Bacon, Egg & Cheese Biscuit (Large Biscuit)",8
-"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",9
-"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",10
-Sausage Biscuit (Regular Biscuit),11
-Sausage Biscuit (Large Biscuit),12
-Sausage Biscuit with Egg (Regular Biscuit),13
-Sausage Biscuit with Egg (Large Biscuit),14
-Sausage Biscuit with Egg Whites (Regular Biscuit),15
-Sausage Biscuit with Egg Whites (Large Biscuit),16
-Southern Style Chicken Biscuit (Regular Biscuit),17
-Southern Style Chicken Biscuit (Large Biscuit),18
-Steak & Egg Biscuit (Regular Biscuit),19
-"Bacon, Egg & Cheese McGriddles",20
-"Bacon, Egg & Cheese McGriddles with Egg Whites",21
-Sausage McGriddles,22
-"Sausage, Egg & Cheese McGriddles",23
-"Sausage, Egg & Cheese McGriddles with Egg Whites",24
-"Bacon, Egg & Cheese Bagel",25
-"Bacon, Egg & Cheese Bagel with Egg Whites",26
-"Steak, Egg & Cheese Bagel",27
-Big Breakfast (Regular Biscuit),28
-Big Breakfast (Large Biscuit),29
-Big Breakfast with Egg Whites (Regular Biscuit),30
-Big Breakfast with Egg Whites (Large Biscuit),31
-Big Breakfast with Hotcakes (Regular Biscuit),32
-Big Breakfast with Hotcakes (Large Biscuit),33
-Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),34
-Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),35
-Hotcakes,36
-Hotcakes and Sausage,37
-Sausage Burrito,38
-Hash Brown,39
-Cinnamon Melts,40
-Fruit & Maple Oatmeal,41
-Fruit & Maple Oatmeal without Brown Sugar,42
-Big Mac,43
-Quarter Pounder with Cheese,44
-Quarter Pounder with Bacon & Cheese,45
-Quarter Pounder with Bacon Habanero Ranch,46
-Quarter Pounder Deluxe,47
-Double Quarter Pounder with Cheese,48
-Hamburger,49
-Cheeseburger,50
-Double Cheeseburger,51
-Bacon Clubhouse Burger,52
-McDouble,53
-Bacon McDouble,54
-Daily Double,55
-Jalapeño Double,56
-McRib,57
-Premium Crispy Chicken Classic Sandwich,58
-Premium Grilled Chicken Classic Sandwich,59
-Premium Crispy Chicken Club Sandwich,60
-Premium Grilled Chicken Club Sandwich,61
-Premium Crispy Chicken Ranch BLT Sandwich,62
-Premium Grilled Chicken Ranch BLT Sandwich,63
-Bacon Clubhouse Crispy Chicken Sandwich,64
-Bacon Clubhouse Grilled Chicken Sandwich,65
-Southern Style Crispy Chicken Sandwich,66
-McChicken,67
-Bacon Cheddar McChicken,68
-Bacon Buffalo Ranch McChicken,69
-Buffalo Ranch McChicken,70
-Premium McWrap Chicken & Bacon (Crispy Chicken),71
-Premium McWrap Chicken & Bacon (Grilled Chicken),72
-Premium McWrap Chicken & Ranch (Crispy Chicken),73
-Premium McWrap Chicken & Ranch (Grilled Chicken),74
-Premium McWrap Southwest Chicken (Crispy Chicken),75
-Premium McWrap Southwest Chicken (Grilled Chicken),76
-Premium McWrap Chicken Sweet Chili (Crispy Chicken),77
-Premium McWrap Chicken Sweet Chili (Grilled Chicken),78
-Chicken McNuggets (4 piece),79
-Chicken McNuggets (6 piece),80
-Chicken McNuggets (10 piece),81
-Chicken McNuggets (20 piece),82
-Chicken McNuggets (40 piece),83
-Filet-O-Fish,84
-Premium Bacon Ranch Salad (without Chicken),85
-Premium Bacon Ranch Salad with Crispy Chicken,86
-Premium Bacon Ranch Salad with Grilled Chicken,87
-Premium Southwest Salad (without Chicken),88
-Premium Southwest Salad with Crispy Chicken,89
-Premium Southwest Salad with Grilled Chicken,90
-Chipotle BBQ Snack Wrap (Crispy Chicken),91
-Chipotle BBQ Snack Wrap (Grilled Chicken),92
-Honey Mustard Snack Wrap (Crispy Chicken),93
-Honey Mustard Snack Wrap (Grilled Chicken),94
-Ranch Snack Wrap (Crispy Chicken),95
-Ranch Snack Wrap (Grilled Chicken),96
-Small French Fries,97
-Medium French Fries,98
-Large French Fries,99
-Kids French Fries,100
-Side Salad,101
-Apple Slices,102
-Fruit 'n Yogurt Parfait,103
-Baked Apple Pie,104
-Chocolate Chip Cookie,105
-Oatmeal Raisin Cookie,106
-Kids Ice Cream Cone,107
-Hot Fudge Sundae,108
-Hot Caramel Sundae,109
-Strawberry Sundae,110
-Coca-Cola Classic (Small),111
-Coca-Cola Classic (Medium),112
-Coca-Cola Classic (Large),113
-Coca-Cola Classic (Child),114
-Diet Coke (Small),115
-Diet Coke (Medium),116
-Diet Coke (Large),117
-Diet Coke (Child),118
-Dr Pepper (Small),119
-Dr Pepper (Medium),120
-Dr Pepper (Large),121
-Dr Pepper (Child),122
-Diet Dr Pepper (Small),123
-Diet Dr Pepper (Medium),124
-Diet Dr Pepper (Large),125
-Diet Dr Pepper (Child),126
-Sprite (Small),127
-Sprite (Medium),128
-Sprite (Large),129
-Sprite (Child),130
-1% Low Fat Milk Jug,131
-Fat Free Chocolate Milk Jug,132
-Minute Maid 100% Apple Juice Box,133
-Minute Maid Orange Juice (Small),134
-Minute Maid Orange Juice (Medium),135
-Minute Maid Orange Juice (Large),136
-Dasani Water Bottle,137
-Iced Tea (Small),138
-Iced Tea (Medium),139
-Iced Tea (Large),140
-Iced Tea (Child),141
-Sweet Tea (Small),142
-Sweet Tea (Medium),143
-Sweet Tea (Large),144
-Sweet Tea (Child),145
-Coffee (Small),146
-Coffee (Medium),147
-Coffee (Large),148
-Latte (Small),149
-Latte (Medium),150
-Latte (Large),151
-Caramel Latte (Small),152
-Caramel Latte (Medium),153
-Caramel Latte (Large),154
-Hazelnut Latte (Small),155
-Hazelnut Latte (Medium),156
-Hazelnut Latte (Large),157
-French Vanilla Latte (Small),158
-French Vanilla Latte (Medium),159
-French Vanilla Latte (Large),160
-Latte with Sugar Free French Vanilla Syrup (Small),161
-Latte with Sugar Free French Vanilla Syrup (Medium),162
-Latte with Sugar Free French Vanilla Syrup (Large),163
-Nonfat Latte (Small),164
-Nonfat Latte (Medium),165
-Nonfat Latte (Large),166
-Nonfat Caramel Latte (Small),167
-Nonfat Caramel Latte (Medium),168
-Nonfat Caramel Latte (Large),169
-Nonfat Hazelnut Latte (Small),170
-Nonfat Hazelnut Latte (Medium),171
-Nonfat Hazelnut Latte (Large),172
-Nonfat French Vanilla Latte (Small),173
-Nonfat French Vanilla Latte (Medium),174
-Nonfat French Vanilla Latte (Large),175
-Nonfat Latte with Sugar Free French Vanilla Syrup (Small),176
-Nonfat Latte with Sugar Free French Vanilla Syrup (Medium),177
-Nonfat Latte with Sugar Free French Vanilla Syrup (Large),178
-Mocha (Small),179
-Mocha (Medium),180
-Mocha (Large),181
-Mocha with Nonfat Milk (Small),182
-Mocha with Nonfat Milk (Medium),183
-Mocha with Nonfat Milk (Large),184
-Caramel Mocha (Small),185
-Caramel Mocha (Medium),186
-Caramel Mocha (Large),187
-Nonfat Caramel Mocha (Small),188
-Nonfat Caramel Mocha (Medium),189
-Nonfat Caramel Mocha (Large),190
-Hot Chocolate (Small),191
-Hot Chocolate (Medium),192
-Hot Chocolate (Large),193
-Hot Chocolate with Nonfat Milk (Small),194
-Hot Chocolate with Nonfat Milk (Medium),195
-Hot Chocolate with Nonfat Milk (Large),196
-Regular Iced Coffee (Small),197
-Regular Iced Coffee (Medium),198
-Regular Iced Coffee (Large),199
-Caramel Iced Coffee (Small),200
-Caramel Iced Coffee (Medium),201
-Caramel Iced Coffee (Large),202
-Hazelnut Iced Coffee (Small),203
-Hazelnut Iced Coffee (Medium),204
-Hazelnut Iced Coffee (Large),205
-French Vanilla Iced Coffee (Small),206
-French Vanilla Iced Coffee (Medium),207
-French Vanilla Iced Coffee (Large),208
-Iced Coffee with Sugar Free French Vanilla Syrup (Small),209
-Iced Coffee with Sugar Free French Vanilla Syrup (Medium),210
-Iced Coffee with Sugar Free French Vanilla Syrup (Large),211
-Iced Mocha (Small),212
-Iced Mocha (Medium),213
-Iced Mocha (Large),214
-Iced Mocha with Nonfat Milk (Small),215
-Iced Mocha with Nonfat Milk (Medium),216
-Iced Mocha with Nonfat Milk (Large),217
-Iced Caramel Mocha (Small),218
-Iced Caramel Mocha (Medium),219
-Iced Caramel Mocha (Large),220
-Iced Nonfat Caramel Mocha (Small),221
-Iced Nonfat Caramel Mocha (Medium),222
-Iced Nonfat Caramel Mocha (Large),223
-Frappé Mocha (Small),224
-Frappé Mocha (Medium),225
-Frappé Mocha (Large),226
-Frappé Caramel (Small),227
-Frappé Caramel (Medium),228
-Frappé Caramel (Large),229
-Frappé Chocolate Chip (Small),230
-Frappé Chocolate Chip (Medium),231
-Frappé Chocolate Chip (Large),232
-Blueberry Pomegranate Smoothie (Small),233
-Blueberry Pomegranate Smoothie (Medium),234
-Blueberry Pomegranate Smoothie (Large),235
-Strawberry Banana Smoothie (Small),236
-Strawberry Banana Smoothie (Medium),237
-Strawberry Banana Smoothie (Large),238
-Mango Pineapple Smoothie (Small),239
-Mango Pineapple Smoothie (Medium),240
-Mango Pineapple Smoothie (Large),241
-Vanilla Shake (Small),242
-Vanilla Shake (Medium),243
-Vanilla Shake (Large),244
-Strawberry Shake (Small),245
-Strawberry Shake (Medium),246
-Strawberry Shake (Large),247
-Chocolate Shake (Small),248
-Chocolate Shake (Medium),249
-Chocolate Shake (Large),250
-Shamrock Shake (Medium),251
-Shamrock Shake (Large),252
-McFlurry with M&M’s Candies (Small),253
-McFlurry with M&M’s Candies (Medium),254
-McFlurry with M&M’s Candies (Snack),255
-McFlurry with Oreo Cookies (Small),256
-McFlurry with Oreo Cookies (Medium),257
-McFlurry with Oreo Cookies (Snack),258
-McFlurry with Reese's Peanut Butter Cups (Medium),259
-McFlurry with Reese's Peanut Butter Cups (Snack),260
-BBQ Rib-Sandwich,261
-Black Forest Ham-Sandwich,262
-Chicken & Bacon Ranch Melt-Sandwich,263
-Chicken Mango Curry-Sandwich,264
-Chicken Tikka-Sandwich,265
-Chicken Vindaloo-Sandwich,266
-Classic Tuna-Sandwich,267
-Cold Cut Combo-Sandwich,268
-Genoa Salami-Sandwich,269
-Italian B.M.T.®-Sandwich,270
-Meatball Marinara-Sandwich,271
-Ham & Jack Slider-Sandwich,272
-Italian Spice Slider-Sandwich,273
-Little Cheesesteak Slider-Sandwich,274
-Little Turkey Slider-Sandwich,275
-Southwest Chicken Club-Sandwich,276
-Steak Club-Sandwich,277
-Ultimate Steak-Sandwich,278
-Oven Roasted Chicken-Sandwich,279
-Paneer Tikka-Sandwich,280
-Roast Beef-Sandwich,281
-Rotisserie-Style Chicken-Sandwich,282
-Spicy Italian-Sandwich,283
-Steak & Cheese-Sandwich,284
-Subway Club®-Sandwich,285
-Sweet Onion Chicken Teriyaki-Sandwich,286
-Turkey & Bacon Guacamole-Sandwich,287
-Turkey Breast-Sandwich,288
-Ultimate Meatball Marinara-Sandwich,289
-Ultimate Spicy Italian-Sandwich,290
-Veggie Delite®-Sandwich,291
-BBQ Rib-Salad,292
-Black Forest Ham-Salad,293
-Chicken & Bacon Ranch-Salad,294
-Cold Cut Combo-Salad,295
-Italian B.M.T. ®-Salad,296
-Meatball Marinara-Salad,297
-Oven Roasted Chicken-Salad,298
-Roast Beef-Salad,299
-Rotisserie-Style Chicken-Salad,300
-Southwest Chipotle Chicken Club-Salad,301
-Spicy Italian-Salad,302
-Steak & Cheese-Salad,303
-Steak Club Salad-Salad,304
-Subway Club®-Salad,305
-Sweet Onion Chicken Teriyaki-Salad,306
-Tuna-Salad,307
-Turkey Breast-Salad,308
-Veggie Delite®-Salad,309
-"Bacon, Egg & Cheese-Breakfast",310
-"Black Forest Ham, Egg & Cheese-Breakfast",311
-Egg & Cheese-Breakfast,312
-"Steak, Egg & Cheese-Breakfast",313
-Bacon-Extra,314
-Caramel Apple Cookie-Extra,315
-Chocolate Chip Cookie-Extra,316
-Chocolate Chip with M&M’s ®-Extra,317
-Chocolate Chunk Cookie-Extra,318
-Dark Chocolate Cherry Cookie-Extra,319
-Double Chocolate-Extra,320
-Oatmeal Raisin Cookie-Extra,321
-Pepperoni-Extra,322
-Raspberry Cheesecake Cookie-Extra,323
-Raspberry Lemonade Cookie-Extra,324
-Sugar Cookie-Extra,325
-White Chip Macadamia Nut Cookie-Extra,326
-BBQ Rib Signature Wrap-Wrap,327
-Black Forest Ham-Wrap,328
-Chicken & Bacon Ranch Melt-Wrap,329
-Chipotle Southwest Steak & Cheese-Wrap,330
-Cold Cut Combo-Wrap,331
-Cripsy Cauliflower Ranch Signature Wrap-Wrap,332
-Italian B.M.T. ®-Wrap,333
-Meatball Marinara-Wrap,334
-Cauliflower Fritter Curry Signature Wrap-Wrap,335
-Oven Roasted Chicken-Wrap,336
-Roast Beef-Wrap,337
-Rotisserie-Style Chicken-Wrap,338
-Savory Rotisserie-Style Chicken Caesar-Wrap,339
-Spicy Italian-Wrap,340
-Subway Club®-Wrap,341
-Sweet Onion Chicken Teriyaki-Wrap,342
-Tuna-Wrap,343
-Turkey Breast-Wrap,344
-"Turkey, Bacon & Guacamole-Wrap",345
-Veggie Delite®-Wrap,346
-Roasted Garlic-Bread,347
-9-Grain Honey Oat-Bread,348
-9-Grain Wheat-Bread,349
-Artisan Flatbread-Bread,350
-Hearty Italian**-Bread,351
-Italian-Bread,352
-Italian Herbs & Cheese-Bread,353
-Jalapeño Cheese-Bread,354
-Mini 9-Grain Wheat-Bread,355
-Mini Italian-Bread,356
-Monterey Cheddar**-Bread,357
-Parmesan Oregano**-Bread,358
-Rosemary & Sea Salt-Bread,359
-Spinach Wrap-Bread,360
-Tomato Basil Wrap-Bread,361
-American-Cheese,362
-Cheddar**-Cheese,363
-Monterey Cheddar-Cheese,364
-Pepperjack**-Cheese,365
-Provolone-Cheese,366
-Shredded Mozzarella-Cheese,367
-Swiss**-Cheese,368
-Bacon-Extras,369
-Guacamole-Extras,370
-Pepperoni-Extras,371
-Chipotle Southwest-Sauces,372
-Honey Mustard**-Sauces,373
-Light Mayonnaise-Sauces,374
-Oil-Sauces,375
-Ranch-Sauces,376
-Red Wine Vinegar-Sauces,377
-Regular Mayonnaise-Sauces,378
-Savory Caesar**-Sauces,379
-Spicy Brown Mustard-Sauces,380
-Subway® Vinaigrette-Sauces,381
-Sweet Onion Sauce-Sauces,382
-Yellow Mustard-Sauces,383
-Banana Peppers-Veggies,384
-Black Olives-Veggies,385
-Cucumbers-Veggies,386
-Green Peppers-Veggies,387
-Jalapenos-Veggies,388
-Lettuce-Veggies,389
-Pickles-Veggies,390
-Red Onions-Veggies,391
-Spinach-Veggies,392
-Tomatoes-Veggies,393
-Bacon-Protein,394
-Parmesan Cheese-Seasonings,395
-Brewed Coffee-Short Coffee,396
-Brewed Coffee-Tall Coffee,397
-Brewed Coffee-Grande Coffee,398
-Brewed Coffee-Venti Coffee,399
-Caffè Latte-Short Nonfat Milk,400
-Caffè Latte-Short 2% Milk,401
-Caffè Latte-Short Soymilk,402
-Caffè Latte-Tall Nonfat Milk,403
-Caffè Latte-Tall  2% Milk,404
-Caffè Latte-Tall  Soymilk,405
-Caffè Latte-Grande Nonfat Milk,406
-Caffè Latte-Grande 2% Milk,407
-Caffè Latte-Grande Soymilk,408
-Caffè Latte-Venti Nonfat Milk,409
-Caffè Latte-Venti 2% Milk,410
-Caffè Latte-Venti Soymilk,411
-Caffè Mocha (Without Whipped Cream)-Short Nonfat Milk,412
-Caffè Mocha (Without Whipped Cream)-Short 2% Milk,413
-Caffè Mocha (Without Whipped Cream)-Short Soymilk,414
-Caffè Mocha (Without Whipped Cream)-Tall Nonfat Milk,415
-Caffè Mocha (Without Whipped Cream)-Tall 2% Milk,416
-Caffè Mocha (Without Whipped Cream)-Tall Soymilk,417
-Caffè Mocha (Without Whipped Cream)-Grande Nonfat Milk,418
-Caffè Mocha (Without Whipped Cream)-Grande  2% Milk,419
-Caffè Mocha (Without Whipped Cream)-Grande  Soymilk,420
-Caffè Mocha (Without Whipped Cream)-Venti Nonfat Milk,421
-Caffè Mocha (Without Whipped Cream)-Venti 2% Milk,422
-Caffè Mocha (Without Whipped Cream)-Venti Soymilk,423
-Vanilla Latte (Or Other Flavoured Latte)-Short Nonfat Milk,424
-Vanilla Latte (Or Other Flavoured Latte)-Short 2% Milk,425
-Vanilla Latte (Or Other Flavoured Latte)-Short Soymilk,426
-Vanilla Latte (Or Other Flavoured Latte)-Tall Nonfat Milk,427
-Vanilla Latte (Or Other Flavoured Latte)-Tall  2% Milk,428
-Vanilla Latte (Or Other Flavoured Latte)-Tall  Soymilk,429
-Vanilla Latte (Or Other Flavoured Latte)-Grande Nonfat Milk,430
-Vanilla Latte (Or Other Flavoured Latte)-Grande 2% Milk,431
-Vanilla Latte (Or Other Flavoured Latte)-Grande Soymilk,432
-Vanilla Latte (Or Other Flavoured Latte)-Venti Nonfat Milk,433
-Vanilla Latte (Or Other Flavoured Latte)-Venti  2% Milk,434
-Vanilla Latte (Or Other Flavoured Latte)-Venti  Soymilk,435
-Caffè Americano-Short,436
-Caffè Americano-Tall,437
-Caffè Americano-Grande,438
-Caffè Americano-Venti,439
-Cappuccino-Short Nonfat Milk,440
-Cappuccino-Short  2% Milk,441
-Cappuccino-Short  Soymilk,442
-Cappuccino-Tall Nonfat Milk,443
-Cappuccino-Tall 2% Milk,444
-Cappuccino-Tall Soymilk,445
-Cappuccino-Grande Nonfat Milk,446
-Cappuccino-Grande 2% Milk,447
-Cappuccino-Grande Soymilk,448
-Cappuccino-Venti Nonfat Milk,449
-Cappuccino-Venti  2% Milk,450
-Cappuccino-Venti  Soymilk,451
-Espresso-Solo,452
-Espresso-Doppio,453
-Skinny Latte (Any Flavour)-Short Nonfat Milk,454
-Skinny Latte (Any Flavour)-Tall Nonfat Milk,455
-Skinny Latte (Any Flavour)-Grande Nonfat Milk,456
-Skinny Latte (Any Flavour)-Venti Nonfat Milk,457
-Caramel Macchiato-Short Nonfat Milk,458
-Caramel Macchiato-Short 2% Milk,459
-Caramel Macchiato-Short Soymilk,460
-Caramel Macchiato-Tall Nonfat Milk,461
-Caramel Macchiato-Tall  2% Milk,462
-Caramel Macchiato-Tall  Soymilk,463
-Caramel Macchiato-Grande Nonfat Milk,464
-Caramel Macchiato-Grande 2% Milk,465
-Caramel Macchiato-Grande Soymilk,466
-Caramel Macchiato-Venti Nonfat Milk,467
-Caramel Macchiato-Venti 2% Milk,468
-Caramel Macchiato-Venti Soymilk,469
-White Chocolate Mocha (Without Whipped Cream)-Short Nonfat Milk,470
-White Chocolate Mocha (Without Whipped Cream)-Short 2% Milk,471
-White Chocolate Mocha (Without Whipped Cream)-Short Soymilk,472
-White Chocolate Mocha (Without Whipped Cream)-Tall Nonfat Milk,473
-White Chocolate Mocha (Without Whipped Cream)-Tall  2% Milk,474
-White Chocolate Mocha (Without Whipped Cream)-Tall  Soymilk,475
-White Chocolate Mocha (Without Whipped Cream)-Grande Nonfat Milk,476
-White Chocolate Mocha (Without Whipped Cream)-Grande 2% Milk,477
-White Chocolate Mocha (Without Whipped Cream)-Grande Soymilk,478
-White Chocolate Mocha (Without Whipped Cream)-Venti Nonfat Milk,479
-White Chocolate Mocha (Without Whipped Cream)-Venti 2% Milk,480
-White Chocolate Mocha (Without Whipped Cream)-Venti Soymilk,481
-Hot Chocolate (Without Whipped Cream)-Short Nonfat Milk,482
-Hot Chocolate (Without Whipped Cream)-Short 2% Milk,483
-Hot Chocolate (Without Whipped Cream)-Short Soymilk,484
-Hot Chocolate (Without Whipped Cream)-Tall Nonfat Milk,485
-Hot Chocolate (Without Whipped Cream)-Tall  2% Milk,486
-Hot Chocolate (Without Whipped Cream)-Tall  Soymilk,487
-Hot Chocolate (Without Whipped Cream)-Grande Nonfat Milk,488
-Hot Chocolate (Without Whipped Cream)-Grande 2% Milk,489
-Hot Chocolate (Without Whipped Cream)-Grande Soymilk,490
-Hot Chocolate (Without Whipped Cream)-Venti Nonfat Milk,491
-Hot Chocolate (Without Whipped Cream)-Venti  2% Milk,492
-Hot Chocolate (Without Whipped Cream)-Venti  Soymilk,493
-Caramel Apple Spice (Without Whipped Cream)-Short,494
-Caramel Apple Spice (Without Whipped Cream)-Tall,495
-Caramel Apple Spice (Without Whipped Cream)-Grande,496
-Caramel Apple Spice (Without Whipped Cream)-Venti,497
-Tazo® Tea-Short,498
-Tazo® Tea-Tall,499
-Tazo® Tea-Grande,500
-Tazo® Tea-Venti,501
-Tazo® Chai Tea Latte-Short Nonfat Milk,502
-Tazo® Chai Tea Latte-Short 2% Milk,503
-Tazo® Chai Tea Latte-Short Soymilk,504
-Tazo® Chai Tea Latte-Tall Nonfat Milk,505
-Tazo® Chai Tea Latte-Tall  2% Milk,506
-Tazo® Chai Tea Latte-Tall  Soymilk,507
-Tazo® Chai Tea Latte-Grande Nonfat Milk,508
-Tazo® Chai Tea Latte-Grande 2% Milk,509
-Tazo® Chai Tea Latte-Grande Soymilk,510
-Tazo® Chai Tea Latte-Venti Nonfat Milk,511
-Tazo® Chai Tea Latte-Venti  2% Milk,512
-Tazo® Chai Tea Latte-Venti  Soymilk,513
-Tazo® Green Tea Latte-Short Nonfat Milk,514
-Tazo® Green Tea Latte-Short 2% Milk,515
-Tazo® Green Tea Latte-Short Soymilk,516
-Tazo® Green Tea Latte-Tall Nonfat Milk,517
-Tazo® Green Tea Latte-Tall 2% Milk,518
-Tazo® Green Tea Latte-Tall Soymilk,519
-Tazo® Green Tea Latte-Grande Nonfat Milk,520
-Tazo® Green Tea Latte-Grande 2% Milk,521
-Tazo® Green Tea Latte-Grande Soymilk,522
-Tazo® Green Tea Latte-Venti Nonfat Milk,523
-Tazo® Green Tea Latte-Venti 2% Milk,524
-Tazo® Green Tea Latte-Venti Soymilk,525
-Tazo® Full-Leaf Tea Latte-Short Nonfat Milk,526
-Tazo® Full-Leaf Tea Latte-Short 2% Milk,527
-Tazo® Full-Leaf Tea Latte-Short Soymilk,528
-Tazo® Full-Leaf Tea Latte-Tall Nonfat Milk,529
-Tazo® Full-Leaf Tea Latte-Tall 2% Milk,530
-Tazo® Full-Leaf Tea Latte-Tall Soymilk,531
-Tazo® Full-Leaf Tea Latte-Grande Nonfat Milk,532
-Tazo® Full-Leaf Tea Latte-Grande  2% Milk,533
-Tazo® Full-Leaf Tea Latte-Grande  Soymilk,534
-Tazo® Full-Leaf Tea Latte-Venti Nonfat Milk,535
-Tazo® Full-Leaf Tea Latte-Venti 2% Milk,536
-Tazo® Full-Leaf Tea Latte-Venti Soymilk,537
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Short Nonfat Milk,538
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Short 2% Milk,539
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Short Soymilk,540
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Tall Nonfat Milk,541
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Tall 2% Milk,542
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Tall Soymilk,543
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Grande Nonfat Milk,544
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Grande 2% Milk,545
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Grande Soymilk,546
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Venti Nonfat Milk,547
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Venti 2% Milk,548
-Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Venti Soymilk,549
-Iced Brewed Coffee (With Classic Syrup)-Tall,550
-Iced Brewed Coffee (With Classic Syrup)-Grande,551
-Iced Brewed Coffee (With Classic Syrup)-Venti,552
-Iced Brewed Coffee (With Milk & Classic Syrup)-Tall Nonfat Milk,553
-Iced Brewed Coffee (With Milk & Classic Syrup)-Tall  2% Milk,554
-Iced Brewed Coffee (With Milk & Classic Syrup)-Tall Soymilk,555
-Iced Brewed Coffee (With Milk & Classic Syrup)-Grande Nonfat Milk,556
-Iced Brewed Coffee (With Milk & Classic Syrup)-Grande 2% Milk,557
-Iced Brewed Coffee (With Milk & Classic Syrup)-Grande Soymilk,558
-Iced Brewed Coffee (With Milk & Classic Syrup)-Venti Nonfat Milk,559
-Iced Brewed Coffee (With Milk & Classic Syrup)-Venti  2% Milk,560
-Iced Brewed Coffee (With Milk & Classic Syrup)-Venti  Soymilk,561
-Shaken Iced Tazo® Tea (With Classic Syrup)-Tall,562
-Shaken Iced Tazo® Tea (With Classic Syrup)-Grande,563
-Shaken Iced Tazo® Tea (With Classic Syrup)-Venti,564
-Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)-Tall,565
-Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)-Grande,566
-Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)-Venti,567
-Banana Chocolate Smoothie-Grande Nonfat Milk,568
-Banana Chocolate Smoothie-Grande 2% Milk,569
-Banana Chocolate Smoothie-Grande Soymilk,570
-Orange Mango Banana Smoothie-Tall Nonfat Milk,571
-Orange Mango Banana Smoothie-Tall 2% Milk,572
-Orange Mango Banana Smoothie-Tall Soymilk,573
-Strawberry Banana Smoothie-Grande Nonfat Milk,574
-Strawberry Banana Smoothie-Grande 2% Milk,575
-Strawberry Banana Smoothie-Grande Soymilk,576
-Coffee-Tall Nonfat Milk,577
-Coffee-Tall Whole Milk,578
-Coffee-Tall Soymilk,579
-Coffee-Grande Nonfat Milk,580
-Coffee-Grande Whole Milk,581
-Coffee-Grande Soymilk,582
-Coffee-Venti Nonfat Milk,583
-Coffee-Venti Whole Milk,584
-Coffee-Venti  Soymilk,585
-Mocha (Without Whipped Cream)-Tall Nonfat Milk,586
-Mocha (Without Whipped Cream)-Tall Whole Milk,587
-Mocha (Without Whipped Cream)-Tall Soymilk,588
-Mocha (Without Whipped Cream)-Grande Nonfat Milk,589
-Mocha (Without Whipped Cream)-Grande Whole Milk,590
-Mocha (Without Whipped Cream)-Grande Soymilk,591
-Mocha (Without Whipped Cream)-Venti Nonfat Milk,592
-Mocha (Without Whipped Cream)-Venti Whole Milk,593
-Mocha (Without Whipped Cream)-Venti Soymilk,594
-Caramel (Without Whipped Cream)-Tall Nonfat Milk,595
-Caramel (Without Whipped Cream)-Tall Whole Milk,596
-Caramel (Without Whipped Cream)-Tall Soymilk,597
-Caramel (Without Whipped Cream)-Grande Nonfat Milk,598
-Caramel (Without Whipped Cream)-Grande Whole Milk,599
-Caramel (Without Whipped Cream)-Grande Soymilk,600
-Caramel (Without Whipped Cream)-Venti Nonfat Milk,601
-Caramel (Without Whipped Cream)-Venti Whole Milk,602
-Caramel (Without Whipped Cream)-Venti  Soymilk,603
-Java Chip (Without Whipped Cream)-Tall Nonfat Milk,604
-Java Chip (Without Whipped Cream)-Tall Whole Milk,605
-Java Chip (Without Whipped Cream)-Tall Soymilk,606
-Java Chip (Without Whipped Cream)-Grande Nonfat Milk,607
-Java Chip (Without Whipped Cream)-Grande Whole Milk,608
-Java Chip (Without Whipped Cream)-Grande Soymilk,609
-Java Chip (Without Whipped Cream)-Venti Nonfat Milk,610
-Java Chip (Without Whipped Cream)-Venti  Whole Milk,611
-Java Chip (Without Whipped Cream)-Venti Soymilk,612
-Light Blended Coffee-Tall Nonfat Milk,613
-Light Blended Coffee-Grande Nonfat Milk,614
-Light Blended Coffee-Venti Nonfat Milk,615
-Mocha-Tall Nonfat Milk,616
-Mocha-Grande Nonfat Milk,617
-Mocha-Venti Nonfat Milk,618
-Caramel-Tall Nonfat Milk,619
-Caramel-Grande Nonfat Milk,620
-Caramel-Venti Nonfat Milk,621
-Java Chip-Tall Nonfat Milk,622
-Java Chip-Grande Nonfat Milk,623
-Java Chip-Venti Nonfat Milk,624
-Strawberries & Crème (Without Whipped Cream)-Tall Nonfat Milk,625
-Strawberries & Crème (Without Whipped Cream)-Tall  Whole Milk,626
-Strawberries & Crème (Without Whipped Cream)-Tall  Soymilk,627
-Strawberries & Crème (Without Whipped Cream)-Grande Nonfat Milk,628
-Strawberries & Crème (Without Whipped Cream)-Grande Whole Milk,629
-Strawberries & Crème (Without Whipped Cream)-Grande Soymilk,630
-Strawberries & Crème (Without Whipped Cream)-Venti Nonfat Milk,631
-Strawberries & Crème (Without Whipped Cream)-Venti Whole Milk,632
-Strawberries & Crème (Without Whipped Cream)-Venti  Soymilk,633
-Vanilla Bean (Without Whipped Cream)-Tall Nonfat Milk,634
-Vanilla Bean (Without Whipped Cream)-Tall  Whole Milk,635
-Vanilla Bean (Without Whipped Cream)-Tall Soymilk,636
-Vanilla Bean (Without Whipped Cream)-Grande Nonfat Milk,637
-Chonga Bagel,638
-8-Grain Roll,639
-Almond Croissant,640
-Apple Fritter,641
-Banana Nut Bread,642
-Blueberry Muffin with Yogurt and Honey,643
-Blueberry Scone,644
-Butter Croissant,645
-Butterfly Cookie,646
-Cheese Danish,647
-Chewy Chocolate Cookie,648
-Starbucks Chocolate Chip Cookie,649
-Chocolate Chunk Muffin,650
-Chocolate Croissant,651
-Chocolate Hazelnut Croissant,652
-Chocolate Marble Loaf Cake,653
-Cinnamon Morning Bun,654
-Cinnamon Raisin Bagel,655
-Classic Coffee Cake,656
-Cookie Butter Bar,657
-Cranberry Orange Scone,658
-Devil's Food Doughnut,659
-Double Chocolate Brownie,660
-Double Chocolate Chunk Brownie,661
-Double Chocolate Loaf Cake,662
-Everybody's Favorite - Bantam Bagel (2 Pack),663
-Everything Bagel with Cheese,664
-Frappuccino® Cookie Straw,665
-French Toast - Bantam Bagels (2 Pack),666
-Gluten-Free Marshmallow Dream Bar,667
-Ice Cream Cone Sugar Cookie,668
-Iced Lemon Pound Cake,669
-Michigan Cherry Oat Bar,670
-Multigrain Bagel,671
-Oatmeal Cookie,672
-Octopus Cookie,673
-Old-Fashioned Glazed Doughnut,674
-Peanut butter cup cookie,675
-Pecan Tart,676
-Petite Vanilla Bean Scone,677
-Plain Bagel,678
-Pumpkin Bread,679
-Raspberry Swirl Loaf Cake,680
-Raspberry Whoopie Pie,681
-Reduced-Fat Cinnamon Swirl Coffee Cake,682
-S'mores Bar,683
-S'mores Bar Multipack,684
-Sprouted Grain Vegan Bagel,685
-Strawberry Cake Pop,686
-The Classic - Bantam Bagels (2 Pack),687
-Toffeedoodle,688
-Vanilla Bean Whoopie Pie,689
-Vermont Maple Walnut Muffin,690
-Volpi™ Pepperoni & Tomato Savory Foldover,691
-Strawberries & Jam Sandwich,692
-Burrata & Basil Pesto Small Sandwich,693
-Cage-Free Eggs & Seasoned Grains Side Salad,694
-Cauliflower Tabbouleh Side Salad,695
-Cubano Sandwich,696
-Farmers' Market Protein Box,697
-Garden Greens & Shaved Parmesan Side Salad,698
-Green Goddess Avocado Salad,699
-Herbed Chicken & Fig Spread Small Sandwich,700
-Honey BBQ Sriracha Chicken Sandwich,701
-Roasted Carrot & Kale Side Salad,702
-Roasted Turkey & Dill Havarti Sandwich,703
-Seared Steak & Cheddar Sandwich,704
-Slow-Roasted Ham & Beecher's Flagship Cheese Small Sandwich,705
-Smoked Mozzarella & Roasted Pepper Sandwich,706
-Turkey & Fire-Roasted Corn Salad,707
-Za'atar Chicken & Lemon Tahini Salad,708
-BBQ Chicken Protein Box,709
-Cheese & Fruit Protein Box,710
-Chicken Wrap Protein Box,711
-Eggs & Cheese Protein Box,712
-PB&J Protein Box,713
-Smoked Turkey Protein Box,714
-Birthday Cake Pop,715
-Chocolate Cake Pop,716
-Chocolate Chip Cookie Dough Cake Pop,717
-Pirate Cake Pop,718
-Bacon Gouda & Egg Breakfast Sandwich,719
-Certified Gluten-Free Breakfast Sandwich,720
-Classic Whole-Grain Oatmeal,721
-Double-Smoked Bacon Cheddar & Egg Sandwich,722
-Ham & Cheese Croissant,723
-Hearty Blueberry Oatmeal,724
-Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,725
-Sausage Cheddar & Egg Breakfast Sandwich,726
-Seared Steak Egg & Tomatillo Wrap,727
-Slow-Roasted Ham Swiss & Egg Breakfast Sandwich,728
-Sous Vide Egg Bites: Bacon & Gruyere,729
-Sous Vide Egg Bites: Egg White & Red Pepper,730
-Spicy Chorizo  Monterey Jack & Egg Breakfast Sandwich,731
-Spinach Feta & Cage Free Egg White Breakfast Wrap,732
-Ancho Chipotle Chicken Panini ,733
-Chicken & Quinoa Protein Bowl with Black Beans and Greens,734
-Chicken Artichoke on Ancient Grain Flatbread,735
-Chicken BLT Salad Sandwich,736
-Egg Salad Sandwich,737
-Homestyle Chicken & Double-Smoked Bacon,738
-Italian-Style Ham & Spicy Salami,739
-Lentils & Vegetable Protein Bowl with Brown Rice,740
-Roasted Tomato & Mozzarella Panini,741
-Turkey & Havarti Sandwich,742
-Turkey Pesto Panini,743
-Berry Trio Yogurt,744
-Fresh Blueberries and Honey Greek Yogurt Parfait,745
-Justin's Chocolate Hazelnut Butter,746
-Justin's Classic Almond Butter,747
-Lemon Chiffon Yogurt,748
-Organic Avocado (Spread),749
+Egg McMuffin,0
+Egg White Delight,1
+Sausage McMuffin,2
+Sausage McMuffin with Egg,3
+Sausage McMuffin with Egg Whites,4
+Steak & Egg McMuffin,5
+"Bacon, Egg & Cheese Biscuit (Regular Biscuit)",6
+"Bacon, Egg & Cheese Biscuit (Large Biscuit)",7
+"Bacon, Egg & Cheese Biscuit with Egg Whites (Regular Biscuit)",8
+"Bacon, Egg & Cheese Biscuit with Egg Whites (Large Biscuit)",9
+Sausage Biscuit (Regular Biscuit),10
+Sausage Biscuit (Large Biscuit),11
+Sausage Biscuit with Egg (Regular Biscuit),12
+Sausage Biscuit with Egg (Large Biscuit),13
+Sausage Biscuit with Egg Whites (Regular Biscuit),14
+Sausage Biscuit with Egg Whites (Large Biscuit),15
+Southern Style Chicken Biscuit (Regular Biscuit),16
+Southern Style Chicken Biscuit (Large Biscuit),17
+Steak & Egg Biscuit (Regular Biscuit),18
+"Bacon, Egg & Cheese McGriddles",19
+"Bacon, Egg & Cheese McGriddles with Egg Whites",20
+Sausage McGriddles,21
+"Sausage, Egg & Cheese McGriddles",22
+"Sausage, Egg & Cheese McGriddles with Egg Whites",23
+"Bacon, Egg & Cheese Bagel",24
+"Bacon, Egg & Cheese Bagel with Egg Whites",25
+"Steak, Egg & Cheese Bagel",26
+Big Breakfast (Regular Biscuit),27
+Big Breakfast (Large Biscuit),28
+Big Breakfast with Egg Whites (Regular Biscuit),29
+Big Breakfast with Egg Whites (Large Biscuit),30
+Big Breakfast with Hotcakes (Regular Biscuit),31
+Big Breakfast with Hotcakes (Large Biscuit),32
+Big Breakfast with Hotcakes and Egg Whites (Regular Biscuit),33
+Big Breakfast with Hotcakes and Egg Whites (Large Biscuit),34
+Hotcakes,35
+Hotcakes and Sausage,36
+Sausage Burrito,37
+Hash Brown,38
+Cinnamon Melts,39
+Fruit & Maple Oatmeal,40
+Fruit & Maple Oatmeal without Brown Sugar,41
+Big Mac,42
+Quarter Pounder with Cheese,43
+Quarter Pounder with Bacon & Cheese,44
+Quarter Pounder with Bacon Habanero Ranch,45
+Quarter Pounder Deluxe,46
+Double Quarter Pounder with Cheese,47
+Hamburger,48
+Cheeseburger,49
+Double Cheeseburger,50
+Bacon Clubhouse Burger,51
+McDouble,52
+Bacon McDouble,53
+Daily Double,54
+Jalapeño Double,55
+McRib,56
+Premium Crispy Chicken Classic Sandwich,57
+Premium Grilled Chicken Classic Sandwich,58
+Premium Crispy Chicken Club Sandwich,59
+Premium Grilled Chicken Club Sandwich,60
+Premium Crispy Chicken Ranch BLT Sandwich,61
+Premium Grilled Chicken Ranch BLT Sandwich,62
+Bacon Clubhouse Crispy Chicken Sandwich,63
+Bacon Clubhouse Grilled Chicken Sandwich,64
+Southern Style Crispy Chicken Sandwich,65
+McChicken,66
+Bacon Cheddar McChicken,67
+Bacon Buffalo Ranch McChicken,68
+Buffalo Ranch McChicken,69
+Premium McWrap Chicken & Bacon (Crispy Chicken),70
+Premium McWrap Chicken & Bacon (Grilled Chicken),71
+Premium McWrap Chicken & Ranch (Crispy Chicken),72
+Premium McWrap Chicken & Ranch (Grilled Chicken),73
+Premium McWrap Southwest Chicken (Crispy Chicken),74
+Premium McWrap Southwest Chicken (Grilled Chicken),75
+Premium McWrap Chicken Sweet Chili (Crispy Chicken),76
+Premium McWrap Chicken Sweet Chili (Grilled Chicken),77
+Chicken McNuggets (4 piece),78
+Chicken McNuggets (6 piece),79
+Chicken McNuggets (10 piece),80
+Chicken McNuggets (20 piece),81
+Chicken McNuggets (40 piece),82
+Filet-O-Fish,83
+Premium Bacon Ranch Salad (without Chicken),84
+Premium Bacon Ranch Salad with Crispy Chicken,85
+Premium Bacon Ranch Salad with Grilled Chicken,86
+Premium Southwest Salad (without Chicken),87
+Premium Southwest Salad with Crispy Chicken,88
+Premium Southwest Salad with Grilled Chicken,89
+Chipotle BBQ Snack Wrap (Crispy Chicken),90
+Chipotle BBQ Snack Wrap (Grilled Chicken),91
+Honey Mustard Snack Wrap (Crispy Chicken),92
+Honey Mustard Snack Wrap (Grilled Chicken),93
+Ranch Snack Wrap (Crispy Chicken),94
+Ranch Snack Wrap (Grilled Chicken),95
+Small French Fries,96
+Medium French Fries,97
+Large French Fries,98
+Kids French Fries,99
+Side Salad,100
+Apple Slices,101
+Fruit 'n Yogurt Parfait,102
+Baked Apple Pie,103
+Chocolate Chip Cookie,104
+Oatmeal Raisin Cookie,105
+Kids Ice Cream Cone,106
+Hot Fudge Sundae,107
+Hot Caramel Sundae,108
+Strawberry Sundae,109
+Coca-Cola Classic (Small),110
+Coca-Cola Classic (Medium),111
+Coca-Cola Classic (Large),112
+Coca-Cola Classic (Child),113
+Diet Coke (Small),114
+Diet Coke (Medium),115
+Diet Coke (Large),116
+Diet Coke (Child),117
+Dr Pepper (Small),118
+Dr Pepper (Medium),119
+Dr Pepper (Large),120
+Dr Pepper (Child),121
+Diet Dr Pepper (Small),122
+Diet Dr Pepper (Medium),123
+Diet Dr Pepper (Large),124
+Diet Dr Pepper (Child),125
+Sprite (Small),126
+Sprite (Medium),127
+Sprite (Large),128
+Sprite (Child),129
+1% Low Fat Milk Jug,130
+Fat Free Chocolate Milk Jug,131
+Minute Maid 100% Apple Juice Box,132
+Minute Maid Orange Juice (Small),133
+Minute Maid Orange Juice (Medium),134
+Minute Maid Orange Juice (Large),135
+Dasani Water Bottle,136
+Iced Tea (Small),137
+Iced Tea (Medium),138
+Iced Tea (Large),139
+Iced Tea (Child),140
+Sweet Tea (Small),141
+Sweet Tea (Medium),142
+Sweet Tea (Large),143
+Sweet Tea (Child),144
+Coffee (Small),145
+Coffee (Medium),146
+Coffee (Large),147
+Latte (Small),148
+Latte (Medium),149
+Latte (Large),150
+Caramel Latte (Small),151
+Caramel Latte (Medium),152
+Caramel Latte (Large),153
+Hazelnut Latte (Small),154
+Hazelnut Latte (Medium),155
+Hazelnut Latte (Large),156
+French Vanilla Latte (Small),157
+French Vanilla Latte (Medium),158
+French Vanilla Latte (Large),159
+Latte with Sugar Free French Vanilla Syrup (Small),160
+Latte with Sugar Free French Vanilla Syrup (Medium),161
+Latte with Sugar Free French Vanilla Syrup (Large),162
+Nonfat Latte (Small),163
+Nonfat Latte (Medium),164
+Nonfat Latte (Large),165
+Nonfat Caramel Latte (Small),166
+Nonfat Caramel Latte (Medium),167
+Nonfat Caramel Latte (Large),168
+Nonfat Hazelnut Latte (Small),169
+Nonfat Hazelnut Latte (Medium),170
+Nonfat Hazelnut Latte (Large),171
+Nonfat French Vanilla Latte (Small),172
+Nonfat French Vanilla Latte (Medium),173
+Nonfat French Vanilla Latte (Large),174
+Nonfat Latte with Sugar Free French Vanilla Syrup (Small),175
+Nonfat Latte with Sugar Free French Vanilla Syrup (Medium),176
+Nonfat Latte with Sugar Free French Vanilla Syrup (Large),177
+Mocha (Small),178
+Mocha (Medium),179
+Mocha (Large),180
+Mocha with Nonfat Milk (Small),181
+Mocha with Nonfat Milk (Medium),182
+Mocha with Nonfat Milk (Large),183
+Caramel Mocha (Small),184
+Caramel Mocha (Medium),185
+Caramel Mocha (Large),186
+Nonfat Caramel Mocha (Small),187
+Nonfat Caramel Mocha (Medium),188
+Nonfat Caramel Mocha (Large),189
+Hot Chocolate (Small),190
+Hot Chocolate (Medium),191
+Hot Chocolate (Large),192
+Hot Chocolate with Nonfat Milk (Small),193
+Hot Chocolate with Nonfat Milk (Medium),194
+Hot Chocolate with Nonfat Milk (Large),195
+Regular Iced Coffee (Small),196
+Regular Iced Coffee (Medium),197
+Regular Iced Coffee (Large),198
+Caramel Iced Coffee (Small),199
+Caramel Iced Coffee (Medium),200
+Caramel Iced Coffee (Large),201
+Hazelnut Iced Coffee (Small),202
+Hazelnut Iced Coffee (Medium),203
+Hazelnut Iced Coffee (Large),204
+French Vanilla Iced Coffee (Small),205
+French Vanilla Iced Coffee (Medium),206
+French Vanilla Iced Coffee (Large),207
+Iced Coffee with Sugar Free French Vanilla Syrup (Small),208
+Iced Coffee with Sugar Free French Vanilla Syrup (Medium),209
+Iced Coffee with Sugar Free French Vanilla Syrup (Large),210
+Iced Mocha (Small),211
+Iced Mocha (Medium),212
+Iced Mocha (Large),213
+Iced Mocha with Nonfat Milk (Small),214
+Iced Mocha with Nonfat Milk (Medium),215
+Iced Mocha with Nonfat Milk (Large),216
+Iced Caramel Mocha (Small),217
+Iced Caramel Mocha (Medium),218
+Iced Caramel Mocha (Large),219
+Iced Nonfat Caramel Mocha (Small),220
+Iced Nonfat Caramel Mocha (Medium),221
+Iced Nonfat Caramel Mocha (Large),222
+Frappé Mocha (Small),223
+Frappé Mocha (Medium),224
+Frappé Mocha (Large),225
+Frappé Caramel (Small),226
+Frappé Caramel (Medium),227
+Frappé Caramel (Large),228
+Frappé Chocolate Chip (Small),229
+Frappé Chocolate Chip (Medium),230
+Frappé Chocolate Chip (Large),231
+Blueberry Pomegranate Smoothie (Small),232
+Blueberry Pomegranate Smoothie (Medium),233
+Blueberry Pomegranate Smoothie (Large),234
+Strawberry Banana Smoothie (Small),235
+Strawberry Banana Smoothie (Medium),236
+Strawberry Banana Smoothie (Large),237
+Mango Pineapple Smoothie (Small),238
+Mango Pineapple Smoothie (Medium),239
+Mango Pineapple Smoothie (Large),240
+Vanilla Shake (Small),241
+Vanilla Shake (Medium),242
+Vanilla Shake (Large),243
+Strawberry Shake (Small),244
+Strawberry Shake (Medium),245
+Strawberry Shake (Large),246
+Chocolate Shake (Small),247
+Chocolate Shake (Medium),248
+Chocolate Shake (Large),249
+Shamrock Shake (Medium),250
+Shamrock Shake (Large),251
+McFlurry with M&M’s Candies (Small),252
+McFlurry with M&M’s Candies (Medium),253
+McFlurry with M&M’s Candies (Snack),254
+McFlurry with Oreo Cookies (Small),255
+McFlurry with Oreo Cookies (Medium),256
+McFlurry with Oreo Cookies (Snack),257
+McFlurry with Reese's Peanut Butter Cups (Medium),258
+McFlurry with Reese's Peanut Butter Cups (Snack),259
+BBQ Rib-Sandwich,260
+Black Forest Ham-Sandwich,261
+Chicken & Bacon Ranch Melt-Sandwich,262
+Chicken Mango Curry-Sandwich,263
+Chicken Tikka-Sandwich,264
+Chicken Vindaloo-Sandwich,265
+Classic Tuna-Sandwich,266
+Cold Cut Combo-Sandwich,267
+Genoa Salami-Sandwich,268
+Italian B.M.T.®-Sandwich,269
+Meatball Marinara-Sandwich,270
+Ham & Jack Slider-Sandwich,271
+Italian Spice Slider-Sandwich,272
+Little Cheesesteak Slider-Sandwich,273
+Little Turkey Slider-Sandwich,274
+Southwest Chicken Club-Sandwich,275
+Steak Club-Sandwich,276
+Ultimate Steak-Sandwich,277
+Oven Roasted Chicken-Sandwich,278
+Paneer Tikka-Sandwich,279
+Roast Beef-Sandwich,280
+Rotisserie-Style Chicken-Sandwich,281
+Spicy Italian-Sandwich,282
+Steak & Cheese-Sandwich,283
+Subway Club®-Sandwich,284
+Sweet Onion Chicken Teriyaki-Sandwich,285
+Turkey & Bacon Guacamole-Sandwich,286
+Turkey Breast-Sandwich,287
+Ultimate Meatball Marinara-Sandwich,288
+Ultimate Spicy Italian-Sandwich,289
+Veggie Delite®-Sandwich,290
+BBQ Rib-Salad,291
+Black Forest Ham-Salad,292
+Chicken & Bacon Ranch-Salad,293
+Cold Cut Combo-Salad,294
+Italian B.M.T. ®-Salad,295
+Meatball Marinara-Salad,296
+Oven Roasted Chicken-Salad,297
+Roast Beef-Salad,298
+Rotisserie-Style Chicken-Salad,299
+Southwest Chipotle Chicken Club-Salad,300
+Spicy Italian-Salad,301
+Steak & Cheese-Salad,302
+Steak Club Salad-Salad,303
+Subway Club®-Salad,304
+Sweet Onion Chicken Teriyaki-Salad,305
+Tuna-Salad,306
+Turkey Breast-Salad,307
+Veggie Delite®-Salad,308
+"Bacon, Egg & Cheese-Breakfast",309
+"Black Forest Ham, Egg & Cheese-Breakfast",310
+Egg & Cheese-Breakfast,311
+"Steak, Egg & Cheese-Breakfast",312
+Bacon-Extra,313
+Caramel Apple Cookie-Extra,314
+Chocolate Chip Cookie-Extra,315
+Chocolate Chip with M&M’s ®-Extra,316
+Chocolate Chunk Cookie-Extra,317
+Dark Chocolate Cherry Cookie-Extra,318
+Double Chocolate-Extra,319
+Oatmeal Raisin Cookie-Extra,320
+Pepperoni-Extra,321
+Raspberry Cheesecake Cookie-Extra,322
+Raspberry Lemonade Cookie-Extra,323
+Sugar Cookie-Extra,324
+White Chip Macadamia Nut Cookie-Extra,325
+BBQ Rib Signature Wrap-Wrap,326
+Black Forest Ham-Wrap,327
+Chicken & Bacon Ranch Melt-Wrap,328
+Chipotle Southwest Steak & Cheese-Wrap,329
+Cold Cut Combo-Wrap,330
+Cripsy Cauliflower Ranch Signature Wrap-Wrap,331
+Italian B.M.T. ®-Wrap,332
+Meatball Marinara-Wrap,333
+Cauliflower Fritter Curry Signature Wrap-Wrap,334
+Oven Roasted Chicken-Wrap,335
+Roast Beef-Wrap,336
+Rotisserie-Style Chicken-Wrap,337
+Savory Rotisserie-Style Chicken Caesar-Wrap,338
+Spicy Italian-Wrap,339
+Subway Club®-Wrap,340
+Sweet Onion Chicken Teriyaki-Wrap,341
+Tuna-Wrap,342
+Turkey Breast-Wrap,343
+"Turkey, Bacon & Guacamole-Wrap",344
+Veggie Delite®-Wrap,345
+Roasted Garlic-Bread,346
+9-Grain Honey Oat-Bread,347
+9-Grain Wheat-Bread,348
+Artisan Flatbread-Bread,349
+Hearty Italian**-Bread,350
+Italian-Bread,351
+Italian Herbs & Cheese-Bread,352
+Jalapeño Cheese-Bread,353
+Mini 9-Grain Wheat-Bread,354
+Mini Italian-Bread,355
+Monterey Cheddar**-Bread,356
+Parmesan Oregano**-Bread,357
+Rosemary & Sea Salt-Bread,358
+Spinach Wrap-Bread,359
+Tomato Basil Wrap-Bread,360
+American-Cheese,361
+Cheddar**-Cheese,362
+Monterey Cheddar-Cheese,363
+Pepperjack**-Cheese,364
+Provolone-Cheese,365
+Shredded Mozzarella-Cheese,366
+Swiss**-Cheese,367
+Bacon-Extras,368
+Guacamole-Extras,369
+Pepperoni-Extras,370
+Chipotle Southwest-Sauces,371
+Honey Mustard**-Sauces,372
+Light Mayonnaise-Sauces,373
+Oil-Sauces,374
+Ranch-Sauces,375
+Red Wine Vinegar-Sauces,376
+Regular Mayonnaise-Sauces,377
+Savory Caesar**-Sauces,378
+Spicy Brown Mustard-Sauces,379
+Subway® Vinaigrette-Sauces,380
+Sweet Onion Sauce-Sauces,381
+Yellow Mustard-Sauces,382
+Banana Peppers-Veggies,383
+Black Olives-Veggies,384
+Cucumbers-Veggies,385
+Green Peppers-Veggies,386
+Jalapenos-Veggies,387
+Lettuce-Veggies,388
+Pickles-Veggies,389
+Red Onions-Veggies,390
+Spinach-Veggies,391
+Tomatoes-Veggies,392
+Bacon-Protein,393
+Parmesan Cheese-Seasonings,394
+Brewed Coffee-Short Coffee,395
+Brewed Coffee-Tall Coffee,396
+Brewed Coffee-Grande Coffee,397
+Brewed Coffee-Venti Coffee,398
+Caffè Latte-Short Nonfat Milk,399
+Caffè Latte-Short 2% Milk,400
+Caffè Latte-Short Soymilk,401
+Caffè Latte-Tall Nonfat Milk,402
+Caffè Latte-Tall  2% Milk,403
+Caffè Latte-Tall  Soymilk,404
+Caffè Latte-Grande Nonfat Milk,405
+Caffè Latte-Grande 2% Milk,406
+Caffè Latte-Grande Soymilk,407
+Caffè Latte-Venti Nonfat Milk,408
+Caffè Latte-Venti 2% Milk,409
+Caffè Latte-Venti Soymilk,410
+Caffè Mocha (Without Whipped Cream)-Short Nonfat Milk,411
+Caffè Mocha (Without Whipped Cream)-Short 2% Milk,412
+Caffè Mocha (Without Whipped Cream)-Short Soymilk,413
+Caffè Mocha (Without Whipped Cream)-Tall Nonfat Milk,414
+Caffè Mocha (Without Whipped Cream)-Tall 2% Milk,415
+Caffè Mocha (Without Whipped Cream)-Tall Soymilk,416
+Caffè Mocha (Without Whipped Cream)-Grande Nonfat Milk,417
+Caffè Mocha (Without Whipped Cream)-Grande  2% Milk,418
+Caffè Mocha (Without Whipped Cream)-Grande  Soymilk,419
+Caffè Mocha (Without Whipped Cream)-Venti Nonfat Milk,420
+Caffè Mocha (Without Whipped Cream)-Venti 2% Milk,421
+Caffè Mocha (Without Whipped Cream)-Venti Soymilk,422
+Vanilla Latte (Or Other Flavoured Latte)-Short Nonfat Milk,423
+Vanilla Latte (Or Other Flavoured Latte)-Short 2% Milk,424
+Vanilla Latte (Or Other Flavoured Latte)-Short Soymilk,425
+Vanilla Latte (Or Other Flavoured Latte)-Tall Nonfat Milk,426
+Vanilla Latte (Or Other Flavoured Latte)-Tall  2% Milk,427
+Vanilla Latte (Or Other Flavoured Latte)-Tall  Soymilk,428
+Vanilla Latte (Or Other Flavoured Latte)-Grande Nonfat Milk,429
+Vanilla Latte (Or Other Flavoured Latte)-Grande 2% Milk,430
+Vanilla Latte (Or Other Flavoured Latte)-Grande Soymilk,431
+Vanilla Latte (Or Other Flavoured Latte)-Venti Nonfat Milk,432
+Vanilla Latte (Or Other Flavoured Latte)-Venti  2% Milk,433
+Vanilla Latte (Or Other Flavoured Latte)-Venti  Soymilk,434
+Caffè Americano-Short,435
+Caffè Americano-Tall,436
+Caffè Americano-Grande,437
+Caffè Americano-Venti,438
+Cappuccino-Short Nonfat Milk,439
+Cappuccino-Short  2% Milk,440
+Cappuccino-Short  Soymilk,441
+Cappuccino-Tall Nonfat Milk,442
+Cappuccino-Tall 2% Milk,443
+Cappuccino-Tall Soymilk,444
+Cappuccino-Grande Nonfat Milk,445
+Cappuccino-Grande 2% Milk,446
+Cappuccino-Grande Soymilk,447
+Cappuccino-Venti Nonfat Milk,448
+Cappuccino-Venti  2% Milk,449
+Cappuccino-Venti  Soymilk,450
+Espresso-Solo,451
+Espresso-Doppio,452
+Skinny Latte (Any Flavour)-Short Nonfat Milk,453
+Skinny Latte (Any Flavour)-Tall Nonfat Milk,454
+Skinny Latte (Any Flavour)-Grande Nonfat Milk,455
+Skinny Latte (Any Flavour)-Venti Nonfat Milk,456
+Caramel Macchiato-Short Nonfat Milk,457
+Caramel Macchiato-Short 2% Milk,458
+Caramel Macchiato-Short Soymilk,459
+Caramel Macchiato-Tall Nonfat Milk,460
+Caramel Macchiato-Tall  2% Milk,461
+Caramel Macchiato-Tall  Soymilk,462
+Caramel Macchiato-Grande Nonfat Milk,463
+Caramel Macchiato-Grande 2% Milk,464
+Caramel Macchiato-Grande Soymilk,465
+Caramel Macchiato-Venti Nonfat Milk,466
+Caramel Macchiato-Venti 2% Milk,467
+Caramel Macchiato-Venti Soymilk,468
+White Chocolate Mocha (Without Whipped Cream)-Short Nonfat Milk,469
+White Chocolate Mocha (Without Whipped Cream)-Short 2% Milk,470
+White Chocolate Mocha (Without Whipped Cream)-Short Soymilk,471
+White Chocolate Mocha (Without Whipped Cream)-Tall Nonfat Milk,472
+White Chocolate Mocha (Without Whipped Cream)-Tall  2% Milk,473
+White Chocolate Mocha (Without Whipped Cream)-Tall  Soymilk,474
+White Chocolate Mocha (Without Whipped Cream)-Grande Nonfat Milk,475
+White Chocolate Mocha (Without Whipped Cream)-Grande 2% Milk,476
+White Chocolate Mocha (Without Whipped Cream)-Grande Soymilk,477
+White Chocolate Mocha (Without Whipped Cream)-Venti Nonfat Milk,478
+White Chocolate Mocha (Without Whipped Cream)-Venti 2% Milk,479
+White Chocolate Mocha (Without Whipped Cream)-Venti Soymilk,480
+Hot Chocolate (Without Whipped Cream)-Short Nonfat Milk,481
+Hot Chocolate (Without Whipped Cream)-Short 2% Milk,482
+Hot Chocolate (Without Whipped Cream)-Short Soymilk,483
+Hot Chocolate (Without Whipped Cream)-Tall Nonfat Milk,484
+Hot Chocolate (Without Whipped Cream)-Tall  2% Milk,485
+Hot Chocolate (Without Whipped Cream)-Tall  Soymilk,486
+Hot Chocolate (Without Whipped Cream)-Grande Nonfat Milk,487
+Hot Chocolate (Without Whipped Cream)-Grande 2% Milk,488
+Hot Chocolate (Without Whipped Cream)-Grande Soymilk,489
+Hot Chocolate (Without Whipped Cream)-Venti Nonfat Milk,490
+Hot Chocolate (Without Whipped Cream)-Venti  2% Milk,491
+Hot Chocolate (Without Whipped Cream)-Venti  Soymilk,492
+Caramel Apple Spice (Without Whipped Cream)-Short,493
+Caramel Apple Spice (Without Whipped Cream)-Tall,494
+Caramel Apple Spice (Without Whipped Cream)-Grande,495
+Caramel Apple Spice (Without Whipped Cream)-Venti,496
+Tazo® Tea-Short,497
+Tazo® Tea-Tall,498
+Tazo® Tea-Grande,499
+Tazo® Tea-Venti,500
+Tazo® Chai Tea Latte-Short Nonfat Milk,501
+Tazo® Chai Tea Latte-Short 2% Milk,502
+Tazo® Chai Tea Latte-Short Soymilk,503
+Tazo® Chai Tea Latte-Tall Nonfat Milk,504
+Tazo® Chai Tea Latte-Tall  2% Milk,505
+Tazo® Chai Tea Latte-Tall  Soymilk,506
+Tazo® Chai Tea Latte-Grande Nonfat Milk,507
+Tazo® Chai Tea Latte-Grande 2% Milk,508
+Tazo® Chai Tea Latte-Grande Soymilk,509
+Tazo® Chai Tea Latte-Venti Nonfat Milk,510
+Tazo® Chai Tea Latte-Venti  2% Milk,511
+Tazo® Chai Tea Latte-Venti  Soymilk,512
+Tazo® Green Tea Latte-Short Nonfat Milk,513
+Tazo® Green Tea Latte-Short 2% Milk,514
+Tazo® Green Tea Latte-Short Soymilk,515
+Tazo® Green Tea Latte-Tall Nonfat Milk,516
+Tazo® Green Tea Latte-Tall 2% Milk,517
+Tazo® Green Tea Latte-Tall Soymilk,518
+Tazo® Green Tea Latte-Grande Nonfat Milk,519
+Tazo® Green Tea Latte-Grande 2% Milk,520
+Tazo® Green Tea Latte-Grande Soymilk,521
+Tazo® Green Tea Latte-Venti Nonfat Milk,522
+Tazo® Green Tea Latte-Venti 2% Milk,523
+Tazo® Green Tea Latte-Venti Soymilk,524
+Tazo® Full-Leaf Tea Latte-Short Nonfat Milk,525
+Tazo® Full-Leaf Tea Latte-Short 2% Milk,526
+Tazo® Full-Leaf Tea Latte-Short Soymilk,527
+Tazo® Full-Leaf Tea Latte-Tall Nonfat Milk,528
+Tazo® Full-Leaf Tea Latte-Tall 2% Milk,529
+Tazo® Full-Leaf Tea Latte-Tall Soymilk,530
+Tazo® Full-Leaf Tea Latte-Grande Nonfat Milk,531
+Tazo® Full-Leaf Tea Latte-Grande  2% Milk,532
+Tazo® Full-Leaf Tea Latte-Grande  Soymilk,533
+Tazo® Full-Leaf Tea Latte-Venti Nonfat Milk,534
+Tazo® Full-Leaf Tea Latte-Venti 2% Milk,535
+Tazo® Full-Leaf Tea Latte-Venti Soymilk,536
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Short Nonfat Milk,537
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Short 2% Milk,538
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Short Soymilk,539
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Tall Nonfat Milk,540
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Tall 2% Milk,541
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Tall Soymilk,542
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Grande Nonfat Milk,543
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Grande 2% Milk,544
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Grande Soymilk,545
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Venti Nonfat Milk,546
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Venti 2% Milk,547
+Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos)-Venti Soymilk,548
+Iced Brewed Coffee (With Classic Syrup)-Tall,549
+Iced Brewed Coffee (With Classic Syrup)-Grande,550
+Iced Brewed Coffee (With Classic Syrup)-Venti,551
+Iced Brewed Coffee (With Milk & Classic Syrup)-Tall Nonfat Milk,552
+Iced Brewed Coffee (With Milk & Classic Syrup)-Tall  2% Milk,553
+Iced Brewed Coffee (With Milk & Classic Syrup)-Tall Soymilk,554
+Iced Brewed Coffee (With Milk & Classic Syrup)-Grande Nonfat Milk,555
+Iced Brewed Coffee (With Milk & Classic Syrup)-Grande 2% Milk,556
+Iced Brewed Coffee (With Milk & Classic Syrup)-Grande Soymilk,557
+Iced Brewed Coffee (With Milk & Classic Syrup)-Venti Nonfat Milk,558
+Iced Brewed Coffee (With Milk & Classic Syrup)-Venti  2% Milk,559
+Iced Brewed Coffee (With Milk & Classic Syrup)-Venti  Soymilk,560
+Shaken Iced Tazo® Tea (With Classic Syrup)-Tall,561
+Shaken Iced Tazo® Tea (With Classic Syrup)-Grande,562
+Shaken Iced Tazo® Tea (With Classic Syrup)-Venti,563
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)-Tall,564
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)-Grande,565
+Shaken Iced Tazo® Tea Lemonade (With Classic Syrup)-Venti,566
+Banana Chocolate Smoothie-Grande Nonfat Milk,567
+Banana Chocolate Smoothie-Grande 2% Milk,568
+Banana Chocolate Smoothie-Grande Soymilk,569
+Orange Mango Banana Smoothie-Tall Nonfat Milk,570
+Orange Mango Banana Smoothie-Tall 2% Milk,571
+Orange Mango Banana Smoothie-Tall Soymilk,572
+Strawberry Banana Smoothie-Grande Nonfat Milk,573
+Strawberry Banana Smoothie-Grande 2% Milk,574
+Strawberry Banana Smoothie-Grande Soymilk,575
+Coffee-Tall Nonfat Milk,576
+Coffee-Tall Whole Milk,577
+Coffee-Tall Soymilk,578
+Coffee-Grande Nonfat Milk,579
+Coffee-Grande Whole Milk,580
+Coffee-Grande Soymilk,581
+Coffee-Venti Nonfat Milk,582
+Coffee-Venti Whole Milk,583
+Coffee-Venti  Soymilk,584
+Mocha (Without Whipped Cream)-Tall Nonfat Milk,585
+Mocha (Without Whipped Cream)-Tall Whole Milk,586
+Mocha (Without Whipped Cream)-Tall Soymilk,587
+Mocha (Without Whipped Cream)-Grande Nonfat Milk,588
+Mocha (Without Whipped Cream)-Grande Whole Milk,589
+Mocha (Without Whipped Cream)-Grande Soymilk,590
+Mocha (Without Whipped Cream)-Venti Nonfat Milk,591
+Mocha (Without Whipped Cream)-Venti Whole Milk,592
+Mocha (Without Whipped Cream)-Venti Soymilk,593
+Caramel (Without Whipped Cream)-Tall Nonfat Milk,594
+Caramel (Without Whipped Cream)-Tall Whole Milk,595
+Caramel (Without Whipped Cream)-Tall Soymilk,596
+Caramel (Without Whipped Cream)-Grande Nonfat Milk,597
+Caramel (Without Whipped Cream)-Grande Whole Milk,598
+Caramel (Without Whipped Cream)-Grande Soymilk,599
+Caramel (Without Whipped Cream)-Venti Nonfat Milk,600
+Caramel (Without Whipped Cream)-Venti Whole Milk,601
+Caramel (Without Whipped Cream)-Venti  Soymilk,602
+Java Chip (Without Whipped Cream)-Tall Nonfat Milk,603
+Java Chip (Without Whipped Cream)-Tall Whole Milk,604
+Java Chip (Without Whipped Cream)-Tall Soymilk,605
+Java Chip (Without Whipped Cream)-Grande Nonfat Milk,606
+Java Chip (Without Whipped Cream)-Grande Whole Milk,607
+Java Chip (Without Whipped Cream)-Grande Soymilk,608
+Java Chip (Without Whipped Cream)-Venti Nonfat Milk,609
+Java Chip (Without Whipped Cream)-Venti  Whole Milk,610
+Java Chip (Without Whipped Cream)-Venti Soymilk,611
+Light Blended Coffee-Tall Nonfat Milk,612
+Light Blended Coffee-Grande Nonfat Milk,613
+Light Blended Coffee-Venti Nonfat Milk,614
+Mocha-Tall Nonfat Milk,615
+Mocha-Grande Nonfat Milk,616
+Mocha-Venti Nonfat Milk,617
+Caramel-Tall Nonfat Milk,618
+Caramel-Grande Nonfat Milk,619
+Caramel-Venti Nonfat Milk,620
+Java Chip-Tall Nonfat Milk,621
+Java Chip-Grande Nonfat Milk,622
+Java Chip-Venti Nonfat Milk,623
+Strawberries & Crème (Without Whipped Cream)-Tall Nonfat Milk,624
+Strawberries & Crème (Without Whipped Cream)-Tall  Whole Milk,625
+Strawberries & Crème (Without Whipped Cream)-Tall  Soymilk,626
+Strawberries & Crème (Without Whipped Cream)-Grande Nonfat Milk,627
+Strawberries & Crème (Without Whipped Cream)-Grande Whole Milk,628
+Strawberries & Crème (Without Whipped Cream)-Grande Soymilk,629
+Strawberries & Crème (Without Whipped Cream)-Venti Nonfat Milk,630
+Strawberries & Crème (Without Whipped Cream)-Venti Whole Milk,631
+Strawberries & Crème (Without Whipped Cream)-Venti  Soymilk,632
+Vanilla Bean (Without Whipped Cream)-Tall Nonfat Milk,633
+Vanilla Bean (Without Whipped Cream)-Tall  Whole Milk,634
+Vanilla Bean (Without Whipped Cream)-Tall Soymilk,635
+Vanilla Bean (Without Whipped Cream)-Grande Nonfat Milk,636
+Chonga Bagel,637
+8-Grain Roll,638
+Almond Croissant,639
+Apple Fritter,640
+Banana Nut Bread,641
+Blueberry Muffin with Yogurt and Honey,642
+Blueberry Scone,643
+Butter Croissant,644
+Butterfly Cookie,645
+Cheese Danish,646
+Chewy Chocolate Cookie,647
+Starbucks Chocolate Chip Cookie,648
+Chocolate Chunk Muffin,649
+Chocolate Croissant,650
+Chocolate Hazelnut Croissant,651
+Chocolate Marble Loaf Cake,652
+Cinnamon Morning Bun,653
+Cinnamon Raisin Bagel,654
+Classic Coffee Cake,655
+Cookie Butter Bar,656
+Cranberry Orange Scone,657
+Devil's Food Doughnut,658
+Double Chocolate Brownie,659
+Double Chocolate Chunk Brownie,660
+Double Chocolate Loaf Cake,661
+Everybody's Favorite - Bantam Bagel (2 Pack),662
+Everything Bagel with Cheese,663
+Frappuccino® Cookie Straw,664
+French Toast - Bantam Bagels (2 Pack),665
+Gluten-Free Marshmallow Dream Bar,666
+Ice Cream Cone Sugar Cookie,667
+Iced Lemon Pound Cake,668
+Michigan Cherry Oat Bar,669
+Multigrain Bagel,670
+Oatmeal Cookie,671
+Octopus Cookie,672
+Old-Fashioned Glazed Doughnut,673
+Peanut butter cup cookie,674
+Pecan Tart,675
+Petite Vanilla Bean Scone,676
+Plain Bagel,677
+Pumpkin Bread,678
+Raspberry Swirl Loaf Cake,679
+Raspberry Whoopie Pie,680
+Reduced-Fat Cinnamon Swirl Coffee Cake,681
+S'mores Bar,682
+S'mores Bar Multipack,683
+Sprouted Grain Vegan Bagel,684
+Strawberry Cake Pop,685
+The Classic - Bantam Bagels (2 Pack),686
+Toffeedoodle,687
+Vanilla Bean Whoopie Pie,688
+Vermont Maple Walnut Muffin,689
+Volpi™ Pepperoni & Tomato Savory Foldover,690
+Strawberries & Jam Sandwich,691
+Burrata & Basil Pesto Small Sandwich,692
+Cage-Free Eggs & Seasoned Grains Side Salad,693
+Cauliflower Tabbouleh Side Salad,694
+Cubano Sandwich,695
+Farmers' Market Protein Box,696
+Garden Greens & Shaved Parmesan Side Salad,697
+Green Goddess Avocado Salad,698
+Herbed Chicken & Fig Spread Small Sandwich,699
+Honey BBQ Sriracha Chicken Sandwich,700
+Roasted Carrot & Kale Side Salad,701
+Roasted Turkey & Dill Havarti Sandwich,702
+Seared Steak & Cheddar Sandwich,703
+Slow-Roasted Ham & Beecher's Flagship Cheese Small Sandwich,704
+Smoked Mozzarella & Roasted Pepper Sandwich,705
+Turkey & Fire-Roasted Corn Salad,706
+Za'atar Chicken & Lemon Tahini Salad,707
+BBQ Chicken Protein Box,708
+Cheese & Fruit Protein Box,709
+Chicken Wrap Protein Box,710
+Eggs & Cheese Protein Box,711
+PB&J Protein Box,712
+Smoked Turkey Protein Box,713
+Birthday Cake Pop,714
+Chocolate Cake Pop,715
+Chocolate Chip Cookie Dough Cake Pop,716
+Pirate Cake Pop,717
+Bacon Gouda & Egg Breakfast Sandwich,718
+Certified Gluten-Free Breakfast Sandwich,719
+Classic Whole-Grain Oatmeal,720
+Double-Smoked Bacon Cheddar & Egg Sandwich,721
+Ham & Cheese Croissant,722
+Hearty Blueberry Oatmeal,723
+Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,724
+Sausage Cheddar & Egg Breakfast Sandwich,725
+Seared Steak Egg & Tomatillo Wrap,726
+Slow-Roasted Ham Swiss & Egg Breakfast Sandwich,727
+Sous Vide Egg Bites: Bacon & Gruyere,728
+Sous Vide Egg Bites: Egg White & Red Pepper,729
+Spicy Chorizo  Monterey Jack & Egg Breakfast Sandwich,730
+Spinach Feta & Cage Free Egg White Breakfast Wrap,731
+Ancho Chipotle Chicken Panini ,732
+Chicken & Quinoa Protein Bowl with Black Beans and Greens,733
+Chicken Artichoke on Ancient Grain Flatbread,734
+Chicken BLT Salad Sandwich,735
+Egg Salad Sandwich,736
+Homestyle Chicken & Double-Smoked Bacon,737
+Italian-Style Ham & Spicy Salami,738
+Lentils & Vegetable Protein Bowl with Brown Rice,739
+Roasted Tomato & Mozzarella Panini,740
+Turkey & Havarti Sandwich,741
+Turkey Pesto Panini,742
+Berry Trio Yogurt,743
+Fresh Blueberries and Honey Greek Yogurt Parfait,744
+Justin's Chocolate Hazelnut Butter,745
+Justin's Classic Almond Butter,746
+Lemon Chiffon Yogurt,747
+Organic Avocado (Spread),748
+Seasonal Fruit Blend,749
